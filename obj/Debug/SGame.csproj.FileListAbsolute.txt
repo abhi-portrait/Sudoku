@@ -1,0 +1,21 @@
+C:\Users\TS\Documents\Visual Studio 2012\Projects\ALGORITHMS\NEW INTUIT\SGame\SGame\bin\Debug\SGame.exe.config
+C:\Users\TS\Documents\Visual Studio 2012\Projects\ALGORITHMS\NEW INTUIT\SGame\SGame\bin\Debug\SGame.exe
+C:\Users\TS\Documents\Visual Studio 2012\Projects\ALGORITHMS\NEW INTUIT\SGame\SGame\bin\Debug\SGame.pdb
+C:\Users\TS\Documents\Visual Studio 2012\Projects\ALGORITHMS\NEW INTUIT\SGame\SGame\obj\Debug\SGame.Form1.resources
+C:\Users\TS\Documents\Visual Studio 2012\Projects\ALGORITHMS\NEW INTUIT\SGame\SGame\obj\Debug\SGame.Properties.Resources.resources
+C:\Users\TS\Documents\Visual Studio 2012\Projects\ALGORITHMS\NEW INTUIT\SGame\SGame\obj\Debug\SGame.csproj.GenerateResource.Cache
+C:\Users\TS\Documents\Visual Studio 2012\Projects\ALGORITHMS\NEW INTUIT\SGame\SGame\obj\Debug\SGame.exe
+C:\Users\TS\Documents\Visual Studio 2012\Projects\ALGORITHMS\NEW INTUIT\SGame\SGame\obj\Debug\SGame.pdb
+C:\Users\TS\Documents\Visual Studio 2012\Projects\ALGORITHMS\NEW INTUIT\SGame\SGame\obj\Debug\SGame.csprojResolveAssemblyReference.cache
+C:\Users\abhishek\Desktop\SGame\SGame\bin\Debug\SGame.exe.config
+C:\Users\abhishek\Desktop\SGame\SGame\obj\Debug\SGame.exe
+C:\Users\abhishek\Desktop\SGame\SGame\obj\Debug\SGame.pdb
+C:\Users\abhishek\Desktop\SGame\SGame\bin\Debug\SGame.exe
+C:\Users\abhishek\Desktop\SGame\SGame\bin\Debug\SGame.pdb
+C:\Users\abhishek\Desktop\SGame\SGame\obj\Debug\SGame.csprojResolveAssemblyReference.cache
+C:\Users\abhishek\Desktop\SGame\SGame\obj\Debug\SGame.Form1.resources
+C:\Users\abhishek\Desktop\SGame\SGame\obj\Debug\SGame.Properties.Resources.resources
+C:\Users\abhishek\Desktop\SGame\SGame\obj\Debug\SGame.csproj.GenerateResource.Cache
+C:\Users\abhishek\Desktop\Android\SGame\SGame\bin\Debug\SGame.exe.config
+C:\Users\abhishek\Desktop\Android\SGame\SGame\obj\Debug\SGame.exe
+C:\Users\abhishek\Desktop\Android\SGame\SGame\obj\Debug\SGame.pdb
